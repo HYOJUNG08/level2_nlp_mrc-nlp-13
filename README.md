@@ -1,5 +1,25 @@
 # level2_nlp_mrc-nlp-13
 
+[ENG](#ENG)   
+[한국어](#한국어)
+
+## ENG
+# Open-Domain Question Answering Project
+
+This project is divided into two stages:   
+The retriever stage, which finds documents related to the given question by searching through a pre-built knowledge resource.   
+The reader stage, which reads the relevant documents and extracts or generates appropriate answers to the questions. 
+
+## Getting Started
+
+To use this project, follow these steps:
+
+### Train and Test the Model
+```
+python main.py
+```
+
+## 한국어
 ## ✅ 목차
 [1. 정보](##-📜-정보) > [2. 진행 과정](##-진행-과정) > [3. 리더보드](##-🏆-리더보드) > [4. 팀원](##-팀원) > [5. 역할](##-역할) > [6. 디렉토리 구조](##-📁-디렉토리-구조) > [7. 프로젝트 구성](##-프로젝트-구성)
 
